@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/textutilty-app/static/css/main.e6c13ad2.css",
+    "main.js": "/textutilty-app/static/js/main.238262cb.js",
+    "index.html": "/textutilty-app/index.html",
+    "main.e6c13ad2.css.map": "/textutilty-app/static/css/main.e6c13ad2.css.map",
+    "main.238262cb.js.map": "/textutilty-app/static/js/main.238262cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.238262cb.js"
+  ]
+}
